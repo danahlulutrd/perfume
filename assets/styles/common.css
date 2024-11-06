@@ -316,8 +316,9 @@ section.enquiry-section {
 }
 
 .enquiry-item a {
-  font-size: 14px;
+  font-size: 16px;
   color: #000;
+  font-weight: 700;
 }
 .enquiry-item h3 {
   color: var(--black-color);
